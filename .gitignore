@@ -1,0 +1,6 @@
+### Ingore npm modules
+node_modules
+
+
+### Ignore test database 
+data 
